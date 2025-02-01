@@ -5,8 +5,7 @@ Hi there! 👋🏻‍
 ______
 
 📫 Let's get in touch? I would gladly respond on 
-- [abdallahzakzouk.com](https://abdallahzakzouk.com) *(Soon...)*
-- ✉ me@abdallahzakzouk.com
+- ✉ abdallah.m.zakzouk@gmail.com
 - LinkedIn [abdallahzakzouk](https://www.linkedin.com/in/abdallahzakzouk)
 - Skype a_m_zac
 
