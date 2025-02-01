@@ -1,7 +1,7 @@
 Hi there! 👋🏻‍
 ## I’m Abdallah Zakzouk 
 ##### | Software Engineering | ML Engineering | Infrastructure |
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,git,docker,ansible,elasticsearch,githubactions,jenkins,bash,python,js,ts,ruby)](https://abdallahzakzouk.com)
+![My Skills](https://skillicons.dev/icons?i=aws,terraform,git,docker,ansible,elasticsearch,githubactions,jenkins,bash,python,js,ts,ruby)
 ______
 
 📫 Let's get in touch? I would gladly respond on 
